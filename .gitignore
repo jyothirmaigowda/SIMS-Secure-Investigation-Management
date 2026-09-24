@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+data/sims_pg/
+data/test_pg/
+storage/vault/
+.codex/

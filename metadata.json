@@ -1,0 +1,6 @@
+{
+  "name": "SIMS — Secure Investigation Management System",
+  "description": "Security-first legal and investigation document management platform with multi-layered role authorization, immutable audit logging, chain of custody, and case workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
